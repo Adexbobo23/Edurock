@@ -1,11 +1,11 @@
 body {
-    background-color: #170F2F;
+    background-color: #F6EFF8;
 }
 
 /* ===================================Header Styles ====================================*/
 .nav-bar{
     background-color: #170F2F;
-    height: 50px;
+    height: 55px;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -40,7 +40,7 @@ a {
     margin-right: 20px;
     border-radius: 5px;
     height: 25px;
-    margin-top: 10px;
+    margin-top: 2px;
 }
 
 .avatar-container:hover {
@@ -50,7 +50,7 @@ a {
 
 #get-btn {
     background-color: blue;
-    margin-top: 15px;
+    margin-top: 5px;
     color: white;
     cursor: pointer;
     border-radius: 5px;
