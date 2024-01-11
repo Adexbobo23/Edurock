@@ -1,0 +1,29 @@
+body {
+    background-color: #170F2F;
+}
+
+/* ===================================Header Styles ====================================*/
+.nav-bar{
+    background-color: #170F2F;
+    height: 50px;
+    width: 100%;
+    display: flex;
+}
+
+.nav-list{
+    display: flex;
+    list-style: none;
+}
+
+.list-nav{
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.cart-avatar {
+    display: flex;
+}
